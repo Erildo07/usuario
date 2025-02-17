@@ -1,1 +1,1 @@
-# progranma pra usuario
+# programa pra usuario
